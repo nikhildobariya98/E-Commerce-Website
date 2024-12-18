@@ -6,6 +6,16 @@ Figma design of this website
 
 https://www.figma.com/design/cGLIOAJCbGtAIt7s7L3q0P/Full-E-Commerce-Website-UI-UX-Design-(Community)?node-id=1-3&p=f&t=jkrx5f64VgRvjMiE-0
 
+
+# Full E Commerce Website UI UX Design (Community)
+
+To preview and run the project on your device:
+
+Open project folder in Visual Studio Code
+In the terminal, run npm install
+Run npm start to view project in browser
+
+
 # language using
 
 1) HTML
