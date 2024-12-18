@@ -8,13 +8,13 @@ https://www.figma.com/design/cGLIOAJCbGtAIt7s7L3q0P/Full-E-Commerce-Website-UI-U
 
 # Screenshots
 
-![Screenshot 2024-12-18 162944](https://github.com/user-attachments/assets/d193338e-547e-40a3-8362-eb5a3b739141)
+![Screenshot 2024-12-18 162944](https://github.com/user-attachments/assets/bcf1c84a-ecd5-405e-9b2c-48620c43b79e)
 
-![Screenshot 2024-12-18 164436](https://github.com/user-attachments/assets/f8cb47c8-7773-409a-93d3-c860d6109aa7)
+![Screenshot 2024-12-18 164436](https://github.com/user-attachments/assets/d199229b-7ffd-44fd-b2ae-a3a664955d64)
 
-![Screenshot 2024-12-18 164559](https://github.com/user-attachments/assets/238eb70f-135c-4136-b4e3-dffb90e58850)
+![Screenshot 2024-12-18 164559](https://github.com/user-attachments/assets/8d599f17-c802-482c-b621-1e082cbc58c5)
 
-![Screenshot 2024-12-18 164711](https://github.com/user-attachments/assets/c18f7b14-6b10-4741-ac69-c7926dd7ee41)
+![Screenshot 2024-12-18 164711](https://github.com/user-attachments/assets/77a43c24-efac-461a-ae4e-760954715b69)
 
 # Contact
 
