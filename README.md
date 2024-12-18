@@ -25,6 +25,10 @@ To preview and run the project on your device:
 3) JAVASCRIPT
 4) BOOTSTRAP ( FRAMEWORK )
 
+# Live Demo
+
+https://nikhildobariya98.github.io/E-Commerce-website/
+
 # Screenshots
 
 ![Screenshot 2024-12-18 162944](https://github.com/user-attachments/assets/bcf1c84a-ecd5-405e-9b2c-48620c43b79e)
